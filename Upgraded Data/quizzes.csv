@@ -1,0 +1,28 @@
+question_id,lesson_id,question_text,correct_answer,options
+Q1,L1,Question about Introduction to Python?,Correct Option,Option A|Option B|Correct Option|Option D
+Q2,L2,Question about Advanced Python?,Correct Option,Option A|Option B|Correct Option|Option D
+Q3,L3,Question about Java for Beginners?,Correct Option,Option A|Option B|Correct Option|Option D
+Q4,L4,Question about C++ Fundamentals?,Correct Option,Option A|Option B|Correct Option|Option D
+Q5,L5,Question about Web Development with React?,Correct Option,Option A|Option B|Correct Option|Option D
+Q6,L6,Question about Node.js Backend?,Correct Option,Option A|Option B|Correct Option|Option D
+Q7,L7,Question about Database Design SQL?,Correct Option,Option A|Option B|Correct Option|Option D
+Q8,L8,Question about NoSQL Databases?,Correct Option,Option A|Option B|Correct Option|Option D
+Q9,L9,Question about Version Control with Git?,Correct Option,Option A|Option B|Correct Option|Option D
+Q10,L10,Question about Docker & Containers?,Correct Option,Option A|Option B|Correct Option|Option D
+Q11,L11,Question about Kubernetes Basics?,Correct Option,Option A|Option B|Correct Option|Option D
+Q12,L12,Question about CI/CD Pipelines?,Correct Option,Option A|Option B|Correct Option|Option D
+Q13,L13,Question about Data Structures?,Correct Option,Option A|Option B|Correct Option|Option D
+Q14,L14,Question about Algorithms Analysis?,Correct Option,Option A|Option B|Correct Option|Option D
+Q15,L15,Question about Clean Code Principles?,Correct Option,Option A|Option B|Correct Option|Option D
+Q16,L16,Question about Machine Learning Basics?,Correct Option,Option A|Option B|Correct Option|Option D
+Q17,L17,Question about Deep Learning Fundamentals?,Correct Option,Option A|Option B|Correct Option|Option D
+Q18,L18,Question about Neural Networks Explained?,Correct Option,Option A|Option B|Correct Option|Option D
+Q19,L19,Question about Convolutional Neural Networks?,Correct Option,Option A|Option B|Correct Option|Option D
+Q20,L20,Question about Natural Language Processing?,Correct Option,Option A|Option B|Correct Option|Option D
+Q21,L21,Question about Reinforcement Learning?,Correct Option,Option A|Option B|Correct Option|Option D
+Q22,L22,Question about Computer Vision?,Correct Option,Option A|Option B|Correct Option|Option D
+Q23,L23,Question about Data Visualization with Matplotlib?,Correct Option,Option A|Option B|Correct Option|Option D
+Q24,L24,Question about Pandas for Data Science?,Correct Option,Option A|Option B|Correct Option|Option D
+Q25,L25,Question about Generative AI?,Correct Option,Option A|Option B|Correct Option|Option D
+Q26,L26,Question about Ethics in AI?,Correct Option,Option A|Option B|Correct Option|Option D
+Q27,L27,Question about Fundamentals of Cybersecurity?,Correct Option,Option A|Option B|Correct Option|Option D

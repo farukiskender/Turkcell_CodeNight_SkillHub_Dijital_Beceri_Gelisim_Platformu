@@ -1,0 +1,41 @@
+user_id,name,city,university,skill_level,total_points,badge_count
+U1,Ayşe,Gaziantep,Bogazici,Beginner,950,0
+U2,Ali,Izmir,Dokuz Eylul,Advanced,175,1
+U3,Deniz,Trabzon,ITU,Intermediate,580,2
+U4,Fatma,Eskisehir,ITU,Intermediate,985,0
+U5,Mehmet,Bursa,Dokuz Eylul,Intermediate,355,0
+U6,Zeynep,Ankara,ITU,Beginner,690,2
+U7,Mustafa,Bursa,Sabanci,Intermediate,280,1
+U8,Emre,Izmir,Ege,Advanced,450,5
+U9,Burak,Gaziantep,Yildiz Technical,Advanced,235,0
+U10,Ceren,Istanbul,Hacettepe,Beginner,1000,2
+U11,Selin,Izmir,Bilkent,Intermediate,410,5
+U12,Can,Konya,Bogazici,Intermediate,845,2
+U13,Kemal,Konya,Hacettepe,Beginner,1070,2
+U14,Elif,Kocaeli,Yildiz Technical,Intermediate,1045,0
+U15,Hakan,Izmir,Bogazici,Advanced,425,5
+U16,Gizem,Istanbul,Koc,Intermediate,940,3
+U17,Ozan,Trabzon,Dokuz Eylul,Beginner,1085,5
+U18,Pınar,Trabzon,Bogazici,Intermediate,470,2
+U19,Mert,Konya,Bogazici,Intermediate,920,5
+U20,Buse,Bursa,METU,Advanced,1090,1
+U21,Tuna,Antalya,ITU,Advanced,755,1
+U22,Derya,Konya,Sabanci,Beginner,1050,5
+U23,Onur,Bursa,Hacettepe,Advanced,370,1
+U24,Gamze,Bursa,Bilkent,Beginner,1060,3
+U25,Barış,Ankara,Sabanci,Advanced,815,2
+U26,Ece,Ankara,Hacettepe,Advanced,1000,0
+U27,Umut,Trabzon,Koc,Beginner,665,1
+U28,Seda,Izmir,Yildiz Technical,Beginner,615,0
+U29,Yusuf,Bursa,ITU,Beginner,1125,0
+U30,Esra,Izmir,Yildiz Technical,Advanced,895,5
+U31,Arda,Antalya,Ege,Beginner,200,5
+U32,Nazlı,Ankara,METU,Advanced,1190,1
+U33,Kerem,Konya,Yildiz Technical,Beginner,240,5
+U34,Aslı,Kocaeli,Yildiz Technical,Advanced,980,5
+U35,Murat,Kocaeli,Hacettepe,Intermediate,260,3
+U36,İpek,Antalya,Dokuz Eylul,Intermediate,895,0
+U37,Serkan,Istanbul,Bilkent,Intermediate,310,5
+U38,Hande,Antalya,Bogazici,Intermediate,730,1
+U39,Tolga,Ankara,ITU,Beginner,330,0
+U40,Begüm,Istanbul,Hacettepe,Beginner,880,3
